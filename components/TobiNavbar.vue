@@ -3,11 +3,11 @@
         <div class="logo">
             <!-- <a href="#" class="logo text-lg"> -->
                <nuxt-link :to="{name: 'index'}" class="logo text-lg">
-                Tobi Nuxt Fundamentals
+                Learn and Play Interactive Web App
                 <!-- </a> -->
                </nuxt-link>
 
-                <span class="subheader"> A Great Vue School Course </span>
+                <span class="subheader"> Self-Learn, Self-Play</span>
             </div>
         </div>
 </template>

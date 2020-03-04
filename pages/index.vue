@@ -84,9 +84,9 @@ export default {
     return {
       title: 'Home Page Famo',
       meta: [
-        { name: 'twitter:title', content: 'Erujeje App by Tobi Balogun'},
-        { name: 'twitter:description', content: 'Really Cool and Optimized for Twitter SEO'},
-        { name: 'twitter:image', content: 'https://i.imgur.com/UYP2umJ.png'},
+        { name: 'twitter:title', content: 'Learn and Play'},
+        { name: 'twitter:description', content: 'Would always be worth the visit!'},
+        // { name: 'twitter:image', content: 'https://i.imgur.com/UYP2umJ.png'},
         { name: 'twitter:card', content: 'summary_large_image'}
       ]
     }
