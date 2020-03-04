@@ -1,0 +1,18 @@
+{
+  "name": "tobi-nuxt",
+  "version": "1.0.0",
+  "description": "My brilliant Nuxt.js project",
+  "author": "Askari",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.11.0",
+    "vuesax": "^4.0.1-alpha.8"
+  },
+  "devDependencies": {}
+}
