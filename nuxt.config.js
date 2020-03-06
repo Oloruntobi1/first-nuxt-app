@@ -4,6 +4,14 @@ export default {
   /*
   ** Headers of the page
   */
+ generate: {
+   routes: [
+    '/tobi-posts/4endusers',
+    '/tobi-posts/poetry',
+    '/tobi-posts/movie-ratings'
+
+   ]
+ },
   head: {
     title: process.env.npm_package_name || '',
     meta: [
